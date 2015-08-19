@@ -1,2 +1,2 @@
-# musynk
-Synchronised Playlist among friends!
+# ultron
+Synchronised Playlist Sharing
